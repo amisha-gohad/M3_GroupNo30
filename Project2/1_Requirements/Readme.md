@@ -23,7 +23,18 @@
 # SWOT ANALYSIS
 
 
-## 5 W's and 1H
+
+
+![BiCom swot analysis](https://user-images.githubusercontent.com/98878326/157863301-2e2d7b0f-4a7f-4c25-abb4-5012d00e94f9.jpg)
+
+
+
+# 5 W's and 1H
+
+
+
+
+![5w 1h Bicom](https://user-images.githubusercontent.com/98878326/157863381-97e93efd-e975-40b4-8e71-dc6f955f8a2f.jpg)
 
 
 
