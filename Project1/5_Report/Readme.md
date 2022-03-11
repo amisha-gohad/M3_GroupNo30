@@ -50,7 +50,7 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 
 ## Applications
 -  Can be used in Automotive applications.
-
+<br/>
 
 # ARCHITECTURE
 
@@ -68,3 +68,26 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 
 ### Low Level UML Use Case Structural Diagram
 <img width="492" alt="Low Level UML Use Case Structural Diagram" src="https://user-images.githubusercontent.com/98808752/157858282-0a829c12-087f-47e0-a476-cd461734bb79.png">
+<br/>
+
+# Test plan and output
+
+## HIGH LEVEL TEST PLAN / Integrated test plan
+
+| Test ID | Description | Input | Expected output | Actual Output | PASSED/NOT |
+| --- | --- | --- | --- | --- | --- |
+| 01 | LOCK | PRESS USER BUTTON ONCE  | Shall LOCK THE CAR | SHALL LOCK THE CAR  | SUCCESS |
+| 02 | UNLOCK | PRESS USER BUTTON TWICE | Shall UNLOCK THE CAR |  SHALL UNLOCK THE CAR | SUCCESS |
+| 03 | ALARM ACTIVATE / DEACTIVATE | PRESS USER BUTTON THRICE | SHALL ACTIVATE / DEACTIVATE ALARM  | Shall ACTIVATE / DEACTIVATE ALARM | SUCCESS |
+| 04 | APPROACH LIGHT | PRESS USER BUTTON FOUR TIMES | SHALL TURN ON THE approach light | SHALL TURN ON APPROACH LIGHT | SUCCESS |
+<br/>
+
+## LOW LEVEL TEST PLAN
+
+| Test ID (for LOCK)| Description | Input | Expected output | Actual Output | PASSED/NOT |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Check for LOCK | UPRESS USER BUTTON ONCE  | Shall ON all THE LED's as per ENCRYPTION | Shall ON all THE LED's as per ENCRYPTION | SUCCESS |
+| 02 | Check for UNLOCK | PRESS USER BUTTON TWICE  | Shall OFF all THE LED's as per ENCRYPTION | Shall OFF all THE LED's as per ENCRYPTION | SUCCESS |
+| 03 | Check IF THE ALARM ACTIVATE/DEACTIVATE | PRESS USER BUTTON THRICE | Shall ON THE LED's ONCE clockwise as per ENCRYPTION |  Shall ON THE LED's ONCE clockwise | SUCCEESS |
+| 04 | Check for THE APPROACH LIGHT | PRESS USER BUTTON FOUR TIMES | Shall ON LED's once anti-clockwise as per ENCRYPTION |  Shall ON LED's once anti-clockwise | SUCCEESS |
+<br/>
