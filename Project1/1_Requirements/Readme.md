@@ -50,4 +50,4 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 <br/>
 
 ## Applications
--  Can be used in Automotice applications.
+-  Can be used in Automotive applications.
