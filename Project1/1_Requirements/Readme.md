@@ -29,7 +29,7 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 <br/>
 <br/>
 
-## 4W's and 1'H
+## 5W's and 1'H
 ### What
 - Keyless entry systems are used to remotely lock, unlock and can have various function.
 
@@ -41,6 +41,9 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 
 ### Why
 - Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors
+
+### Where
+- Can operate from inside and outside the car.
 
 ### How
 - Keyless entry to a vehicle is usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car.
