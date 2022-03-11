@@ -9,16 +9,16 @@ Test plan and output
 
 | Test ID | Description | Input | Expected output | Actual Output | 
 | --- | --- | --- | --- | --- | 
-| 01 | LOCK | PRESS USER BUTTON ONCE  | Shall LOCK THE CAR | Shall LOCK the car  | 
-| 02 | UNLOCK | PRESS USER BUTTON TWICE | Shall UNLOCK THE CAR |  Shall UNLOCK the car | 
-| 03 | ALARM ACTIVATE / DEACTIVATE | USER BUTTON PRESS THREE TIMES | Shall ACTIVATE / DEACTIVATE ALARM  | Shall ACTIVATE / DEACTIVATE ALARM |
-| 04 | APPROACH LIGHT | USER BUTTON PRESS FOUR TIMES | Shall turn On approach light | Shall turn On approach light |
-| 05 |  ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
+| 01 | LOCK | PRESS USER BUTTON ONCE  | Shall LOCK THE CAR | SHALL LOCK THE CAR  | 
+| 02 | UNLOCK | PRESS USER BUTTON TWICE | Shall UNLOCK THE CAR |  SHALL UNLOCK THE CAR | 
+| 03 | ALARM ACTIVATE / DEACTIVATE | PRESS USER BUTTON THRICE | SHALL ACTIVATE / DEACTIVATE ALARM  | Shall ACTIVATE / DEACTIVATE ALARM |
+| 04 | APPROACH LIGHT | PRESS USER BUTTON FOUR TIMES | SHALL TURN ON THE approach light | SHALL TURN ON APPROACH LIGHT |
+| 05 |  ENCRYPTION | 1 OR 2 0R 3 0R 4 | Encrypted Data for 1/2/3/4 | Encrypted Data for 1/2/3/4 |
 
 
 ## LOW LEVEL TEST PLAN
 
-| Test ID (for LOCK)| Description | Input | Expected output | Actual Output | passed/not |
+| Test ID (for LOCK)| Description | Input | Expected output | Actual Output | PASSED/NOT |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Check for LOCK | UPRESS USER BUTTON ONCE  | Shall ON all THE LED's as per ENCRYPTION | Shall ON all THE LED's as per ENCRYPTION | ✅ |
 | 02 | Check for UNLOCK | PRESS USER BUTTON TWICE  | Shall OFF all THE LED's as per ENCRYPTION | Shall OFF all THE LED's as per ENCRYPTION | ✅ |
