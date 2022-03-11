@@ -6,7 +6,7 @@ A remote keyless entry system consists of a remote, which, when activated within
 <br/>
 
 ## DETAILED REQUIREMENTS
-## High Level Requirements
+### High Level Requirements
 | ID | Description | 
 | ----- | ----- | 
 | HLR01 | The car should LOCK |
@@ -14,7 +14,7 @@ A remote keyless entry system consists of a remote, which, when activated within
 | HLR03 | It should Activate/Deactivate the alarm |
 | HLR04 | It should glow Approach lights for indication |
 
-## Low level Requirements
+### Low level Requirements
 | ID | Description | HLR ID |
 | ------ | --------- | ------ |
 | LLR01 | When button will pressed for 1 time, all LED should ON | HLR01 |
