@@ -27,9 +27,9 @@ A remote keyless entry system consists of a remote, which, when activated within
 ## BLOCK DIAGRAM
 ![BlockDiagram](https://user-images.githubusercontent.com/98867361/157837950-d379499e-d7e5-4c39-9438-cefd49563b71.jpeg)
 <br/>
+<br/>
 
 ## 4W's and 1'H
-
 ### What
 - Keyless entry systems are used to remotely lock, unlock and can have various function.
 
