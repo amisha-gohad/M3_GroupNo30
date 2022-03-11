@@ -25,7 +25,7 @@ A remote keyless entry system consists of a remote, which, when activated within
 <br/>
 
 ## BLOCK DIAGRAM
-![BlockDiagram](https://user-images.githubusercontent.com/98867361/157837950-d379499e-d7e5-4c39-9438-cefd49563b71.jpeg)
+![BlockDiagram](https://user-images.githubusercontent.com/98867361/157843176-7259bffb-14c7-47e3-91bc-81fa8ff5d371.png)
 <br/>
 <br/>
 
