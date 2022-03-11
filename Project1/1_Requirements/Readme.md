@@ -40,7 +40,7 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 - Those who have access to the car.
 
 ### Why
-- Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors
+- Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors.
 
 ### Where
 - Can operate from inside and outside the car.
