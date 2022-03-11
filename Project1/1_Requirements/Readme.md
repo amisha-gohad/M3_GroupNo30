@@ -50,5 +50,5 @@ A Remote Keyless Entry system consists of a remote, which, when activated within
 ![SWOT](https://user-images.githubusercontent.com/98867361/157837421-d474736e-bfa2-428c-a5bc-46cb44707dc0.png)
 <br/>
 
-## **Applications**
+## Applications
 -  Can be used in Automotice applications.
