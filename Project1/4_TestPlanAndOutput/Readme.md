@@ -1,6 +1,3 @@
-Test plan and output
-
-
 # Test plan and output
 
 ### Test plan is created and verified
