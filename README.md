@@ -1,10 +1,10 @@
 # M3_GroupNo30
 <br/>
 
-| | Contribution By | 
+| Project | Contribution By | 
 | ----- | ----- | 
 | 1. Remote Keyless Entry  | Anushri Daryapurkar, Amisha Gohad |
-| 2. Bicom System | Equally contributed by Sarang Nasare, Sakshi Kurhade |
+| 2. Bicom System | Sarang Nasare, Sakshi Kurhade |
 <br/>
 <br/>
 
