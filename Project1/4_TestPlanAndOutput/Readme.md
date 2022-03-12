@@ -1,7 +1,7 @@
 # Test plan and output
+<br/>
 
 ### Test plan is created and verified
-
 ## HIGH LEVEL TEST PLAN / Integrated test plan
 
 | Test ID | Description | Input | Expected output | Actual Output | PASSED/NOT |
