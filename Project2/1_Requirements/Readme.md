@@ -33,10 +33,10 @@
 
 | ID | High level requirements |
 | -- |------------------------ |
-| H1| it should display window status                 |
-|H2|it should display alarm status |
-|H3|it should display battery status |
-|H4| it should display door status|
+| H1| It should display window status                 |
+|H2|It should display alarm status |
+|H3|It should display battery status |
+|H4| It should display door status|
 <br/>
 
 ## LOW LEVEL REQUIREMENTS
