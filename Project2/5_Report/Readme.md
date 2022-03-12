@@ -1,5 +1,26 @@
 # Report
 
+# Table Of Content
+1. Description
+2. Identifying Features
+3. State Of Art and Research
+4. SWOT Analysis
+5. 5W's and 1H
+6. Requirements
+   1. High Level Requirements
+   2. Low Level Requirements
+7. Architecture
+   1. Behavioral Diagram
+      1. High Level Flow Chart 
+      2. Low Level Flow Chart 
+   2. Structural Diagram 
+      1. High Level Use Case Structural Diagram
+      2. Low Level Use Case Structural Diagram
+8. Testing(Manual Testing)
+   1. High Level Testing
+   2. Low Level Testing
+9. Output
+
 ## DESCRIPTION
  This project is a BiCom system.
  A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system
@@ -52,7 +73,7 @@
 <br/>
 
 # Architecture
-  ## Bahavirol Diagrams
+  ## Behavioral Diagrams
 
    * High Level Flow Chart
 
