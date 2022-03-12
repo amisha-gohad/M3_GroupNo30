@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
  This project is a BiCom system.
- A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system
+ A BiCom system is the extension of the unidirectional RKE to bidirectional RKE system
  Its Identifying feature would be displayed by led signaling.
  This system is operated by broadcasting radio waves.
 <br/>
