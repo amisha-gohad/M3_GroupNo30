@@ -1,4 +1,5 @@
 # BiCOM SYSTEM 
+<br/>
 
 ## INTRODUCTION
  This project is a BiCom system.
@@ -28,7 +29,6 @@
 <br/>
 
 # REQUIREMENTS
-
 ## HIGH LEVEL REQUIREMENTS
 
 | ID | High level requirements |
