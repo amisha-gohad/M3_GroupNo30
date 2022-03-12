@@ -3,8 +3,8 @@
 
 | | Contribution By | 
 | ----- | ----- | 
-| 1. Remote Keyless Entry  | Equally contributed by Anushri Daryapurkar, Sarang Nasare, Amisha Gohad, Sakshi Kurhade |
-| 2. Bicom System | Equally contributed by Anushri Daryapurkar, Sarang Nasare, Amisha Gohad, Sakshi Kurhade |
+| 1. Remote Keyless Entry  | Anushri Daryapurkar, Amisha Gohad |
+| 2. Bicom System | Equally contributed by Sarang Nasare, Sakshi Kurhade |
 <br/>
 <br/>
 
