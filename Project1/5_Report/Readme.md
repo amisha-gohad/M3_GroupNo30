@@ -6,7 +6,7 @@
    1. High Level Reqirements
    2. Low Level Requirements
 3. 5W's and 1H
-4. Swot Analysis
+4. SWOT Analysis
 5. Applications
 6. Architecture
    1. Behavioral Diagram
